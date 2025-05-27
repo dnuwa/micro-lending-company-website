@@ -581,7 +581,7 @@ export default function Home() {
               <div className="flex flex-col items-center space-y-4 text-center">
                 <Avatar className="h-24 w-24">
                   <AvatarImage
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/AyiorwothVanessaMarriott.jpg"
                     alt="Katusabe Judith"
                   />
                   <AvatarFallback>KJ</AvatarFallback>
@@ -597,7 +597,7 @@ export default function Home() {
               <div className="flex flex-col items-center space-y-4 text-center">
                 <Avatar className="h-24 w-24">
                   <AvatarImage
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/AfoyorwothValerieSanti.jpg"
                     alt="Katusabe Judith"
                   />
                   <AvatarFallback>KJ</AvatarFallback>
@@ -613,7 +613,7 @@ export default function Home() {
               <div className="flex flex-col items-center space-y-4 text-center">
                 <Avatar className="h-24 w-24">
                   <AvatarImage
-                    src="/placeholder.svg?height=96&width=96"
+                    src="/WembabaziPamela.jpg"
                     alt="Katusabe Judith"
                   />
                   <AvatarFallback>KJ</AvatarFallback>
